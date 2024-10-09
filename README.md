@@ -72,10 +72,14 @@ A detailed analysis of the mean, median, and mode of the magnitudes was provided
 3.	Geospatial Analysis: Visualisation mapping the longitude and latitude of earthquakes was plotted to aid the identification of clusters of seismic activity in different regions. 
 
 ## Summary of Derived Insight
-•	In this analysis, key statistical measures of the earthquake magnitudes were calculated to determine central tendency and variability of the earthquake magnitudes in the dataset. 
+•	In this analysis, key statistical measures of the earthquake magnitudes were calculated to determine central tendency and variability of the earthquake magnitudes in the dataset.
+
 •	The mean magnitude (0.9555) derived suggests that the earthquakes recorded had a magnitude slightly below 1, while the median magnitude (0.83) suggests that 50% of recorded event had magnitudes greater than 0.83 and the other 50% had magnitudes lower than 0.83.
-•	The fact that the mean is higher than the median suggests that there might be a few high-magnitude earthquakes in the dataset, indicating a slight skew in the data. 
+
+•	The fact that the mean is higher than the median suggests that there might be a few high-magnitude earthquakes in the dataset, indicating a slight skew in the data.
+
 •	The variance of magnitudes (0.4003) on the other hand suggests a moderate spread in the magnitude value.  
+
 •	Although most earthquakes in the dataset are of low magnitude (below 2.4), the scatterplot presenting the result of the geospatial analysis suggests that certain areas may be more prone to intense seismic activity as indicated by the notable instances of higher magnitude of up to 4.0 scattered across the region. 
 
 ## Conclusion
